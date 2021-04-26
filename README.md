@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Python Programming
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning
-- 
+
 
 <!---
 Anushik5/Anushik5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
